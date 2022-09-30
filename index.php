@@ -1,3 +1,6 @@
+<?php 
+echo 'PHP Line Test.<br>';
+?>
 <html lang="en">
     <head>
         <meta charset="utf-8"/>
